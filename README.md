@@ -23,4 +23,4 @@ A React app to create and manage your dream wishlist – from gadgets to getaway
 git clone https://github.com/pritamawatade/wishlist-wizard.git
 cd wishlist-wizard
 npm install
-npm start
+npm run dev
